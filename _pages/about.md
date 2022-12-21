@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='mailto:bhabaranjan.cs@gmail.com'>bhabaranjan.cs@gmail.com</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>9451, Lee Highway</p>
+    <p>Fairfax, VA, 22031</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently pursuing my <b>Master of Science</b> in <b>Computer Science</b> from <b>George Mason University</b>. Before starting my Master's I was working as a <b>Senior Software Engineer</b>. During this time, I worked closely with Data Science and Analytics teams. The power of AI/ML in production kept increasing my interest to the point where I decided to pursue this in-depth in my Master's.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am doing my research on <b>Socially Acceptable Behaviour for Autonomous Agents</b>. Apart from the broad field of Machine Learning, I'm interested in <b>Computer Vision, Motion Planning and Multimodal Learning</b>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b>I am curretly seeking Internship opportunities for Summer 2023</b>. I would like to work on challenging projects in a progressive organization which will provide me a scope to apply and grow my skills.
