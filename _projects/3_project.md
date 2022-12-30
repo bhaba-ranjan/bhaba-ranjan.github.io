@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Drug Discovery
+description: Performance Comparison between Neural Nets and Decission Trees 
+img: assets/img/drug-disc.png
+redirect: https://profile.bpanigrahi.com/blog/2022/images/
 importance: 3
 category: work
 ---
