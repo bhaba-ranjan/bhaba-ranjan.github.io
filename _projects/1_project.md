@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Adaptive Boosting
-description: How to handle imbalance dataset?
+description: Boosing performance of models, with iterative improvements for Imbalance Dataset.
 img: assets/img/adaboosting-prof.png
-importance: 1
+importance: 2
 category: work
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Clustering
-description: How to group them?
-img: assets/img/clustering-prof.png
-importance: 2
+img: assets/img/clustering-prof.gif
+importance: 3
 category: work
 ---
 

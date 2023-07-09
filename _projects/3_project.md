@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Drug Discovery
-description: Performance Comparison between Neural Nets and Decission Trees 
+description: Performance Comparison between Deep Neural Networks and Decission Trees 
 img: assets/img/drug-disc.png
 redirect: https://profile.bpanigrahi.com/blog/2022/images/
-importance: 3
+importance: 4
 category: work
 ---
 

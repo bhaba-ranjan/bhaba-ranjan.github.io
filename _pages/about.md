@@ -9,16 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>9451, Lee Highway</p>
-    <p>Fairfax, VA, 22031</p>
+    <p>Staffordshire Lane</p>
+    <p>Fairfax, VA, 22030</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently pursuing my <b>Master of Science</b> in <b>Computer Science</b> from <b>George Mason University</b>. Before starting my Master's I was working as a <b>Senior Software Engineer</b>. During this time, I worked closely with Data Science and Analytics teams. The power of AI/ML in production kept increasing my interest to the point where I decided to pursue this in-depth in my Master's.
+Welcome to my personal website! I am a Master of Science in Computer Science student at George Mason University. As a <b>Google Certified TensorFlow Developer</b> and former <b>Senior Software Engineer</b>, I have a strong background in developing and implementing AI/ML solutions.
 
-Currently, I am doing my research on <b>Socially Acceptable Behaviour</b> for <b>Autonomous Agents</b>. Apart from the broad field of Machine Learning, I'm interested in <b>Computer Vision</b>, <b>Motion Planning</b> and <b>Multimodal Learning</b>.
+My current research focuses on <b>Socially Acceptable Navigation for Mobile Robots</b>. In addition to the broad field of Machine Learning, I have a keen interest in Computer Vision, Motion Planning, and Multimodal Learning.
 
-I am <b>curretly seeking Internship Opportunities</b> for <b>Summer 2023</b>. I would like to work on challenging projects in a progressive organization which will provide me a scope to apply and grow my skills.
+I am actively seeking <b>Full-time</b> opportunities as a <b>Machine Learning Engineer</b> starting Summer 2024. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.

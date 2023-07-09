@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-07
 inline: true
 ---
 
-A simple inline announcement.
+<a class="news-title" href="https://www.credential.net/b027e80d-7069-434a-8533-b03d84ec4d26#gs.2edop4">I'm a Google Certified Tensorflow Developer Now !! </a> :sparkles:  :sparkles: 
