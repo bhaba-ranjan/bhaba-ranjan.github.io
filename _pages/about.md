@@ -17,8 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! I am a Master of Science in Computer Science student at George Mason University. As a <b>Google Certified TensorFlow Developer</b> and former <b>Senior Software Engineer</b>, I have a strong background in developing and implementing AI/ML solutions.
+Welcome to my personal website! 
 
-My current research focuses on <b>Socially Acceptable Navigation for Mobile Robots</b>. In addition to the broad field of Machine Learning, I have a keen interest in Computer Vision, Motion Planning, and Multimodal Learning.
+I am a <b>Google Certified TensorFlow Developer</b>, former <b>Senior Software Engineer</b>,  and currently a <b>Graduate Student</b> in MS CS program at George Mason University. I have strong academic and industry experience in developing and implementing AI/ML solutions.
 
-I am actively seeking <b>Full-time</b> opportunities as a <b>Machine Learning Engineer</b> starting Summer 2024. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.
+I am working under the supervision of <a href='https://cs.gmu.edu/~xiao/'> <b>Prof. Xuesu Xiao</b></a>  in the <b>AI and Robotics Lab</b> at GMU. My current research is centered around learning<b> Socially Acceptable Navigation</b> for <b>Mobile Robots</b> by leveraging <b>Deep Neural Networks</b>. In addition to the broad field of Machine Learning, I have a keen interest in Computer Vision, Multimodal Learning, and Motion Planning.
+
+I am actively seeking <b>full-time opportunities</b> in the field of <b>Machine Learning</b> starting Summer 2024. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.
