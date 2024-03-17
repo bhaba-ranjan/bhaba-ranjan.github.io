@@ -17,6 +17,9 @@
       description:
         - title: Courses Taken
           contents:
+            - Multi-Modal Learning
+            - Computer Vision
+            - Autonomous Robotics            
             - Introduction to Artificial Intelligence.
             - Theory an Application of Data Mining.
             - Analysis of Algorithms.
