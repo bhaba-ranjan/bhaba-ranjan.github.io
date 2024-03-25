@@ -24,7 +24,7 @@ I am a <b>Google Certified TensorFlow Developer</b>, former <b>Senior Software E
 
 I have experience in building Retrieval <b>Augmented Generation [RAG]</b> application by combining Generative AI, LLM, and External Knowledge Source. I worked with <a href='https://cs.gmu.edu/~xiao/'> <b>Prof. Xuesu Xiao</b></a> in GMU's <b>AI and Robotics Lab</b> to create a <b>Deep Neural Network</b> with using <b>Multimodal Perception</b> for enhancing social navigation skills of  mobile robots.
 
-I am actively seeking <b>full-time opportunities</b> in the field of <b>Machine Learning</b> starting Summer 2024. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.
+I am actively seeking <b>full-time opportunities</b> in the field of Machine Learning starting <b>May 2024</b>. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.
 
 
 
