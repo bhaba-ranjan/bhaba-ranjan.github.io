@@ -22,7 +22,7 @@ Welcome to my personal website!
 I am a <b>Google Certified TensorFlow Developer</b>, former <b>Senior Software Engineer</b>,  and currently a <b>Graduate Student</b> in MS CS program at George Mason University. I have strong academic and industry experience in developing and implementing AI/ML solutions.
 
 
-I have experience in building Retrieval <b>Augmented Generation [RAG]</b> application by combining Generative AI, LLM, and External Knowledge Source. I worked with <a href='https://cs.gmu.edu/~xiao/'> <b>Prof. Xuesu Xiao</b></a> in GMU's <b>AI and Robotics Lab</b> to create a <b>Deep Neural Network</b> with using <b>Multimodal Perception</b> for enhancing social navigation skills of  mobile robots.
+I have experience in building <b>Retrieval Augmented Generation [RAG]</b> applications by combining Generative AI, LLM, and External Knowledge Source. I worked with <a href='https://cs.gmu.edu/~xiao/'> <b>Prof. Xuesu Xiao</b></a> in GMU's <b>AI and Robotics Lab</b> to create a <b>Deep Neural Network</b> with using <b>Multimodal Perception</b> for enhancing social navigation skills of  mobile robots.
 
 I am actively seeking <b>full-time opportunities</b> in the field of Machine Learning starting <b>May 2024</b>. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.
 
