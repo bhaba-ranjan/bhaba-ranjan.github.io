@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /blog/ 
 title: Resume
 nav: true
 description: Click the logo above to download/view PDF version.
